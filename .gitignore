@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+.gradle/
+.gradle-home/
+.tools/
+.tmp/
+out/
+target/
+*.log
+.DS_Store
+.idea/
+.vscode/
